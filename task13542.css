@@ -563,8 +563,9 @@ body {
 .container-8 {
     width: 900px;
     height: 150px;
-    background: #101010;
+    background-color: black;
     padding: 30px;
+    margin: 20px;
 }
 
 .heading-8 {
